@@ -24,5 +24,5 @@
 <h3 align="center">📊 Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shm19&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/shm19/shm19/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph"/>
 </p>
